@@ -2,7 +2,7 @@
 
 # Career Overview
 ### Vice President and Engineering Lead, Cloud Security Engineering
-**Citigroup - (Mar. 2020-Present**
+**Citigroup - Mar. 2020-Present**
 - Leading a high-performing team of dedicated engineers to enable a secure and compliant by design public cloud deployment to facilitate rapid innovation and implementation for the business and development teams.
 - Cloud: Hands-on and lead engineer of AWS Guardrails and Security Engineering at Citi
 - Drive technology transformation across the enterprise to adopt public cloud services
@@ -11,13 +11,15 @@
 - Increased inter-team collaboration and project delivery through sustained involvement on cross-functional team projects
 - Evaluation and selection of major delivery tooling for Citi’s deployment stack
 - Mentoring, training, and developing team members
-### Information Security Engineer, USAA, San Antonio, TX (Apr. 2017-Mar.2020)
+### Information Security Engineer
+**USAA - Apr. 2017-Mar.2020**
 - Lead SME responsible for CI/CD pipeline security and container/serverless security both on-premises and in multiple public clouds
 - Led a Compliance as Code initiative in the Cyber Threat Operations Center
 - Work on the WAFs as well as on Bot mitigation technology and defense strategies
 - Integrated Docker/FaaS security scanning into the CI/CD pipelines
 - Engaged in incident response activities for information security incidents
-## USAA - Computer Systems Engineer, USAA, San Antonio, TX (Aug. 2014-Apr. 2017)
+### Computer Systems Engineer
+**USAA - Aug. 2014-Apr. 2017**
 - Created process + automation to migrate 5k VDI users from 32 to 64 bit in under 3 months
 - Automated 1st-time setup for a p2v migration of 4k users from desktops to VDI in < 6 months using PowerShell + VMware & Citrix SnapIns
 - Optimized the virtual farms to increase capacity by 12% across 4 datacenters (50k+ VMs)
