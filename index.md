@@ -45,7 +45,7 @@ ryan@dolpheus.com
 
 ### Certifications
 - Amazon Web Services: Certified Solutions Architect – Associate (Sep. 2019-2022)   
-- ![Image](https://github.com/DolpheusLabs/Resume/blob/gh-pages/GCIH_Logo.png) GCIH, expires Sep. 2021
+- ![GCIH Logo](https://github.com/DolpheusLabs/Resume/blob/gh-pages/GCIH_Logo.png) GCIH, expires Sep. 2021
 - GPEN, expires Jul. 2022
 - GWAPT, expires Aug. 2024
 - GIAC Certifications: GCIH, GPEN, GWAPT (expires 9/2021, 7/2022, and 8/2024, respectively)
