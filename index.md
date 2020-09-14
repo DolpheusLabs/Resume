@@ -28,14 +28,15 @@
  
        
 
-### Skills
-Skillsets: Leadership, Management, Compliance, AWS, CI/CD, GitOps, Docker, OpenShift/Kubernetes, innovation
-Leadership: Leading container/serverless security efforts, leading AppSec Pentest services evaluation, influencing the shape of API Platform Security across the org.
+## Skills
+Leadership / Management, Information Security, Innovation, AWS / Cloud, CI-CD and DevOps, Docker/OpenShift/Kubernetes, Serverless, Compliance
 
 ### Innovation & Patents
 Sole inventor of 3 issued U.S. Patents, joint inventor of 1 issued patent, more than 100 patents pending (non-provisional)
+- [Systems and methods for locally streaming applications in a computing system - No. 10,248,531](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10248531.PN.&OS=PN/10248531&RS=PN/10248531). Issued April 02, 2019.
+- [Systems and methods for locally streaming applications in a computing system - No. 10,089,209](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10,089,209.PN.&OS=PN/10,089,209&RS=PN/10,089,209). Issued October 02, 2018. 
 ## Co-Inventor Patents:
-- [Systems and Methods for Online Identity Management - No. 10,671,693](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10671693.PN.)
+- [Systems and Methods for Online Identity Management - No. 10,671,693](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10671693.PN.). Issued June 02, 2020.
 ## Pending: 
 _About 125 are still pending. These cover a wide variety of topics, including:_
 - IoT and Telematics (for vehicle, home, etc.)
