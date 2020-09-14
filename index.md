@@ -1,4 +1,4 @@
-## Ryan Russell
+## Ryan Russell - ryan@dolpheus.com
 
 # Career Overview
 ### Vice President and Engineering Lead, Cloud Security Engineering
