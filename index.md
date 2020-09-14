@@ -78,14 +78,16 @@ _I'm working on a bunch of different ideas under the topics listed below. Intere
 # Community
 ## Thrive Youth Center - Board of Directors
 I serve on the board of directors of Thrive Youth Center, a 501(c)3 non-profit serving homeless LGBTQ youths which provides services and shelter to work towards ending chronic homelessness. I bring my technology and scaling experience to Thrive, and already we have scaled up from housing 35 to targeting housing 70 LGBTQ young adults by the end of 2020, in addition to the over 100 that we have served in other means. With this role, I have been responsible for researching and recommending the core technologies to the business to help us grow. Such projects have included: 
+
 **Customer Relationship Management (CRM) software replacement**
-_Background_ - For this project, I knew that something so core to the business of Thrive and housing so much of our most essential data would mean that this decision needed to be absolutely right and would affect our future for many years. As such, I performed a software evaluation which started with requirements gathering, scorecard/test case generation, and put all of the evaluation plan and criteria into place. I then began a phased-approach funnel, reducing the sprawl from 25 -> 12 -> 6 -> 3 -> 1. This allowed significant time savings and helped us truly find a good fit for the organization. 
 
-_Negotiation_ - Thrive is funded by donations and grants, so this selection process naturally involved negotiating on pricing, contract lengths, support, features, and so on. 
+- _Background_ - For this project, I knew that something so core to the business of Thrive and housing so much of our most essential data would mean that this decision needed to be absolutely right and would affect our future for many years. As such, I performed a software evaluation which started with requirements gathering, scorecard/test case generation, and put all of the evaluation plan and criteria into place. I then began a phased-approach funnel, reducing the sprawl from 25 -> 12 -> 6 -> 3 -> 1. This allowed significant time savings and helped us truly find a good fit for the organization. 
 
-_Signatory_ - Due to the work put in, I was honored to be the one to sign the final contracts and have signatory privileges at Thrive Youth Center.
+- _Negotiation_ - Thrive is funded by donations and grants, so this selection process naturally involved negotiating on pricing, contract lengths, support, features, and so on. 
 
-_Donate_ - I would be remiss if I didn't take this opportunity to encourage you to [donate to Thrive](https://www.thriveyouthcenter.org/). 
+- _Signatory_ - Due to the work put in, I was honored to be the one to sign the final contracts and have signatory privileges at Thrive Youth Center.
+
+- _Donate_ - I would be remiss if I didn't take this opportunity to encourage you to [donate to Thrive](https://www.thriveyouthcenter.org/). 
 
 **Text-to-Give / Text-to-Donate**
 - Worked on finding a text-to-give provider for Thrive. Later, this would be integrated into the CRM (this was about 12 months prior to the CRM discussions)
@@ -98,7 +100,9 @@ Led the BOLD San Antonio chapter and was the enterprise lead for this. With over
 - Events coordination, funding, and logistics (including 5 major cities' Pride Parades, the AMPA/Modern Military Gala and Conference, etc.)
 - Budget management and planning
 
-## AITP - Student Member, 2012-2014
+## AITP
+
+- Student Member, 2012-2014
 
 # Contact
 ryan@dolpheus.com
