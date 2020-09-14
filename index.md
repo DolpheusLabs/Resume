@@ -67,16 +67,14 @@ _I'm working on a bunch of different ideas under the topics listed below. Intere
 ryan@dolpheus.com
 
 ### Education
-![Image](https://github.com/DolpheusLabs/Resume/blob/gh-pages/NU_Logo.png)
-- Norwich University, M.S. in Information Security (Sep. 2020, expected)
-- Tarleton State University, B.S. in Computer Information Systems (2014) 
+- ![Norwich_University_Master_Science](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/NU_MS_Cyber.png)
+- ![Tarleton_State_University_Bachelors_Science_CIS_Cybersecurity](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/TSU_img.png)
 
 ### Certifications
-- Amazon Web Services: Certified Solutions Architect – Associate (Sep. 2019-2022)   
-- ![GCIH Logo](https://github.com/DolpheusLabs/Resume/blob/gh-pages/GCIH_Logo.png?raw=true) GCIH, expires Sep. 2021
-- GPEN, expires Jul. 2022
-- GWAPT, expires Aug. 2024
-- GIAC Certifications: GCIH, GPEN, GWAPT (expires 9/2021, 7/2022, and 8/2024, respectively)
+- ![AWS-SAA](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/AWS%20-%20SAA.png)
+- ![SANS_GIAC_GCIH](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GCIH_Logo.png)
+- ![SANS_GIAC_GPEN](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GPEN_Logo.png)
+- ![SANS_GIAC_GWAPT](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GWAPT_Logo.png)
 
 
 
