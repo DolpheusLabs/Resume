@@ -34,7 +34,33 @@ Leadership: Leading container/serverless security efforts, leading AppSec Pentes
 
 ### Innovation & Patents
 Sole inventor of 3 issued U.S. Patents, joint inventor of 1 issued patent, more than 100 patents pending (non-provisional)
-
+## Co-Inventor Patents:
+- [Systems and Methods for Online Identity Management - No. 10,671,693](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10671693.PN.)
+## Pending: 
+_About 125 are still pending. These cover a wide variety of topics, including:_
+- IoT and Telematics (for vehicle, home, etc.)
+- Insurance & FinTech
+- Blockchain
+- Identity and Access Management
+- Remote Worker Security
+- Data Replication, Disaster Recovery, and Synchronization
+- Hosting & Provisioning
+- Datacenter Cooling, Power Distribution, Efficiency
+- Self-Driving Car
+## Working on... 
+_I'm working on a bunch of different ideas under the topics listed below. Interested in funding or buying one? Want to help me prototype one? Let me know!_
+- Camping equipment, making camping more accessible
+- Home goods & Home decor, making your life easier
+- COVID-19 protection & prevention
+- Advertising & Engagement: MicroMoments innovations & improvements
+- IoT / Telematics / Insurance: Shifting costs to other providers and early warning systems
+- 3D Printing, making this more usable for big projects
+- Gardening: Pest Control Machine
+- Democratizing Technology
+- Deep fakes: detection, mitigation, response
+- Smart Grid (hard to summarize without giving this one away)
+- Energy Efficiencies through a material, technique, and tooling for improving building thermal efficiency. Retrofitting is part of the design, too!
+- 5G changes to existing tech
 ### Contact
 ryan@dolpheus.com
 
