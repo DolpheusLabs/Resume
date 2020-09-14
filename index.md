@@ -3,11 +3,10 @@
 # Career Overview
 ### Vice President and Engineering Lead, Cloud Security Engineering
 **Citigroup - Mar. 2020-Present**
-- Leading a high-performing team of dedicated engineers to enable a secure and compliant by design public cloud deployment to facilitate rapid innovation and implementation for the business and development teams.
-- Cloud: Hands-on and lead engineer of AWS Guardrails and Security Engineering at Citi
-- Drive technology transformation across the enterprise to adopt public cloud services
-- Technology strategy, direction, and implementation of Citi’s cloud security guardrails infrastructure, design, testing, and deployment
-- Developed and brought bring-your-own-pipeline to InfoSec, speeding up deployment times for the organization
+- Leading a high-performing team of security engineers to enable a secure public cloud deployment for Citigroup
+- Started and facilitating the security engineering training program for all of the CISO organization
+- Cloud Technology Strategy: Hands-on development and design of security guardrails infrastructure in our AWS environment
+- Drive technology transformation across the enterprise to adopt public cloud services and cloud-native mindset
 - Increased inter-team collaboration and project delivery through sustained involvement on cross-functional team projects
 - Evaluation and selection of major delivery tooling for Citi’s deployment stack
 - Mentoring, training, and developing team members
@@ -25,7 +24,7 @@
 - Optimized the virtual farms to increase capacity by 12% across 4 datacenters (50k+ VMs)
 - Core Team for VM Provisioning overhaul and redesign; automated in PowerShell
 
- 
+
        
 
 ## Skills
@@ -63,27 +62,36 @@ _I'm working on a bunch of different ideas under the topics listed below. Intere
 - Smart Grid (hard to summarize without giving this one away)
 - Energy Efficiencies through a material, technique, and tooling for improving building thermal efficiency. Retrofitting is part of the design, too!
 - 5G changes to existing tech
-### Contact
-ryan@dolpheus.com
+
 
 ### Education
-- ![Norwich_University_Master_Science](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/NU_MS_Cyber.png)
-- ![Tarleton_State_University_Bachelors_Science_CIS_Cybersecurity](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/TSU_img.png)
+![Norwich_University_Master_Science](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/NU_MS_Cyber.png)
+![Tarleton_State_University_Bachelors_Science_CIS_Cybersecurity](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/TSU_img.png)
 
 ### Certifications
-- ![AWS-SAA](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/AWS%20-%20SAA.png)
-- ![SANS_GIAC_GCIH](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GCIH_Logo.png)
-- ![SANS_GIAC_GPEN](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GPEN_Logo.png)
-- ![SANS_GIAC_GWAPT](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GWAPT_Logo.png)
+![AWS-SAA](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/AWS%20-%20SAA.png)
+![SANS_GIAC_GCIH](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GCIH_Logo.png)
+![SANS_GIAC_GPEN](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GPEN_Logo.png)
+![SANS_GIAC_GWAPT](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GWAPT_Logo.png)
 
 
 
-### Community
-- item
-**Bold** and _Italic_ and `Code` text
+## Community
+### Thrive Youth Center - Board of Directors
+I serve on the board of directors of Thrive Youth Center, a 501(c)3 non-profit serving homeless LGBTQ youths which provides services and shelter to work towards ending chronic homelessness. I bring my technology and scaling experience to Thrive, and already we have scaled up from housing 35 to targeting housing 70 LGBTQ young adults by the end of 2020, in addition to the over 100 that we have served in other means. With this role, I have been responsible for researching and recommending the core technologies to the business to help us grow. Such projects have included: 
+**Customer Relationship Management (CRM) software replacement**
+_Background_ - For this project, I knew that something so core to the business of Thrive and housing so much of our most essential data would mean that this decision needed to be absolutely right and would affect our future for many years. As such, I performed a software evaluation which started with requirements gathering, scorecard/test case generation, and put all of the evaluation plan and criteria into place. I then began a phased-approach funnel, reducing the sprawl from 25 -> 12 -> 6 -> 3 -> 1. This allowed significant time savings and helped us truly find a good fit for the organization. 
 
-[Link](url) and ![Image](src)
-```
+_Negotiation_ - Thrive is funded by donations and grants, so this selection process naturally involved negotiating on pricing, contract lengths, support, features, and so on. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_Signatory_ - Due to the work put in, I was honored to be the one to sign the final contracts and have signatory privileges at Thrive Youth Center.
+
+_Donate_ - I would be remiss if I didn't take this opportunity to encourage you to [donate to Thrive](https://www.thriveyouthcenter.org/). 
+
+**Text-to-Give / Text-to-Donate**
+- asdf
+
+
+# Contact
+ryan@dolpheus.com
 
