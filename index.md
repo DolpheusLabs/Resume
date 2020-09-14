@@ -38,7 +38,7 @@ Sole inventor of 3 issued U.S. Patents, joint inventor of 1 issued patent, more 
 ## Co-Inventor Patents:
 - [Systems and Methods for Online Identity Management - No. 10,671,693](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10671693.PN.). Issued June 02, 2020.
 ## Pending: 
-_About 125 are still pending. These cover a wide variety of topics, including:_
+_Around 100 are still pending. These cover a wide variety of topics, including:_
 - IoT and Telematics (for vehicle, home, etc.)
 - Insurance & FinTech
 - Blockchain
