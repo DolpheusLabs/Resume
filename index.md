@@ -24,13 +24,12 @@
 - Optimized the virtual farms to increase capacity by 12% across 4 datacenters (50k+ VMs)
 - Core Team for VM Provisioning overhaul and redesign; automated in PowerShell
 
-
        
-
-## Skills
+## Skillset
 Leadership / Management, Information Security, Innovation, AWS / Cloud, CI-CD and DevOps, Docker/OpenShift/Kubernetes, Serverless, Compliance
 
-### Innovation & Patents
+
+# Innovation & Patents
 Sole inventor of 3 issued U.S. Patents, joint inventor of 1 issued patent, more than 100 patents pending (non-provisional)
 - [Systems and methods for locally streaming applications in a computing system - No. 10,248,531](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10248531.PN.&OS=PN/10248531&RS=PN/10248531). Issued April 02, 2019.
 - [Systems and methods for locally streaming applications in a computing system - No. 10,452,512](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10,452,512.PN.&OS=PN/10,452,512&RS=PN/10,452,512). Issued February 22, 2019.
@@ -64,11 +63,11 @@ _I'm working on a bunch of different ideas under the topics listed below. Intere
 - 5G changes to existing tech
 
 
-### Education
+# Education
 ![Norwich_University_Master_Science](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/NU_MS_Cyber.png)
 ![Tarleton_State_University_Bachelors_Science_CIS_Cybersecurity](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/TSU_img.png)
 
-### Certifications
+# Certifications
 ![AWS-SAA](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/AWS%20-%20SAA.png)
 ![SANS_GIAC_GCIH](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GCIH_Logo.png)
 ![SANS_GIAC_GPEN](https://raw.githubusercontent.com/DolpheusLabs/Resume/gh-pages/GPEN_Logo.png)
@@ -76,8 +75,8 @@ _I'm working on a bunch of different ideas under the topics listed below. Intere
 
 
 
-## Community
-### Thrive Youth Center - Board of Directors
+# Community
+## Thrive Youth Center - Board of Directors
 I serve on the board of directors of Thrive Youth Center, a 501(c)3 non-profit serving homeless LGBTQ youths which provides services and shelter to work towards ending chronic homelessness. I bring my technology and scaling experience to Thrive, and already we have scaled up from housing 35 to targeting housing 70 LGBTQ young adults by the end of 2020, in addition to the over 100 that we have served in other means. With this role, I have been responsible for researching and recommending the core technologies to the business to help us grow. Such projects have included: 
 **Customer Relationship Management (CRM) software replacement**
 _Background_ - For this project, I knew that something so core to the business of Thrive and housing so much of our most essential data would mean that this decision needed to be absolutely right and would affect our future for many years. As such, I performed a software evaluation which started with requirements gathering, scorecard/test case generation, and put all of the evaluation plan and criteria into place. I then began a phased-approach funnel, reducing the sprawl from 25 -> 12 -> 6 -> 3 -> 1. This allowed significant time savings and helped us truly find a good fit for the organization. 
@@ -89,8 +88,17 @@ _Signatory_ - Due to the work put in, I was honored to be the one to sign the fi
 _Donate_ - I would be remiss if I didn't take this opportunity to encourage you to [donate to Thrive](https://www.thriveyouthcenter.org/). 
 
 **Text-to-Give / Text-to-Donate**
-- asdf
+- Worked on finding a text-to-give provider for Thrive. Later, this would be integrated into the CRM (this was about 12 months prior to the CRM discussions)
 
+## USAA's BOLD - LGBT Employee Resource Group, Enterprise Leader
+Led the BOLD San Antonio chapter and was the enterprise lead for this. With over 1,200 San Antonio members, 1,500 Phoenix members, and collectively approximately 5,000 active members, this was a very large and active group to lead. 
+- Organizational strategy and design
+- Cross-functional influence with business, HR, and employee needs to balance
+- Marketing & brand management
+- Events coordination, funding, and logistics (including 5 major cities' Pride Parades, the AMPA/Modern Military Gala and Conference, etc.)
+- Budget management and planning
+
+## AITP - Student Member, 2012-2014
 
 # Contact
 ryan@dolpheus.com
