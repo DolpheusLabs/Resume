@@ -37,11 +37,15 @@ Sole inventor of 3 issued U.S. Patents, joint inventor of 1 issued patent, more 
 ryan@dolpheus.com
 
 ### Education
+![Image](https://github.com/DolpheusLabs/Resume/blob/gh-pages/NU_Logo.png)
 - Norwich University, M.S. in Information Security (Sep. 2020, expected)
 - Tarleton State University, B.S. in Computer Information Systems (2014) 
 
 ### Certifications
-- Amazon Web Services: Certified Solutions Architect – Associate (Sep. 2019-2022)    
+- Amazon Web Services: Certified Solutions Architect – Associate (Sep. 2019-2022)   
+- ![Image](https://github.com/DolpheusLabs/Resume/blob/gh-pages/GCIH_Logo.png) GCIH, expires Sep. 2021
+- GPEN, expires Jul. 2022
+- GWAPT, expires Aug. 2024
 - GIAC Certifications: GCIH, GPEN, GWAPT (expires 9/2021, 7/2022, and 8/2024, respectively)
 
 ### Community
