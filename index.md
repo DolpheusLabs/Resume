@@ -1,26 +1,50 @@
-## Welcome to GitHub Pages
+## Ryan Russell
 
-You can use the [editor on GitHub](https://github.com/DolpheusLabs/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Career Overview
+### Citigroup - Vice President and Engineering Lead, Cloud Native Security Engineering (Mar. 2020-Present)
+- Leading a high-performing team of dedicated engineers to enable a secure and compliant by design public cloud deployment to facilitate rapid innovation and implementation for the business and development teams.
+- Cloud: Hands-on and lead engineer of AWS Guardrails and Security Engineering at Citi
+- Drive technology transformation across the enterprise to adopt public cloud services
+- Technology strategy, direction, and implementation of Citi’s cloud security guardrails infrastructure, design, testing, and deployment
+- Developed and brought bring-your-own-pipeline to InfoSec, speeding up deployment times for the organization
+- Increased inter-team collaboration and project delivery through sustained involvement on cross-functional team projects
+- Evaluation and selection of major delivery tooling for Citi’s deployment stack
+- Mentoring, training, and developing team members
+### Information Security Engineer, USAA, San Antonio, TX (Apr. 2017-Mar.2020)
+- Lead SME responsible for CI/CD pipeline security and container/serverless security both on-premises and in multiple public clouds
+- Led a Compliance as Code initiative in the Cyber Threat Operations Center
+- Work on the WAFs as well as on Bot mitigation technology and defense strategies
+- Integrated Docker/FaaS security scanning into the CI/CD pipelines
+- Engaged in incident response activities for information security incidents
+## USAA - Computer Systems Engineer, USAA, San Antonio, TX (Aug. 2014-Apr. 2017)
+- Created process + automation to migrate 5k VDI users from 32 to 64 bit in under 3 months
+- Automated 1st-time setup for a p2v migration of 4k users from desktops to VDI in < 6 months using PowerShell + VMware & Citrix SnapIns
+- Optimized the virtual farms to increase capacity by 12% across 4 datacenters (50k+ VMs)
+- Core Team for VM Provisioning overhaul and redesign; automated in PowerShell
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
+       
 
-### Markdown
+### Skills
+Skillsets: Leadership, Management, Compliance, AWS, CI/CD, GitOps, Docker, OpenShift/Kubernetes, innovation
+Leadership: Leading container/serverless security efforts, leading AppSec Pentest services evaluation, influencing the shape of API Platform Security across the org.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Innovation & Patents
+Sole inventor of 3 issued U.S. Patents, joint inventor of 1 issued patent, more than 100 patents pending (non-provisional)
 
-```markdown
-Syntax highlighted code block
+### Contact
+ryan@dolpheus.com
 
-# Header 1
-## Header 2
-### Header 3
+### Education
+- Norwich University, M.S. in Information Security (Sep. 2020, expected)
+- Tarleton State University, B.S. in Computer Information Systems (2014) 
 
-- Bulleted
-- List
+### Certifications
+- Amazon Web Services: Certified Solutions Architect – Associate (Sep. 2019-2022)    
+- GIAC Certifications: GCIH, GPEN, GWAPT (expires 9/2021, 7/2022, and 8/2024, respectively)
 
-1. Numbered
-2. List 
-
+### Community
+- item
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -28,10 +52,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DolpheusLabs/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
