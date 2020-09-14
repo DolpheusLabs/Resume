@@ -1,8 +1,8 @@
 ## Ryan Russell
 
 # Career Overview
-## Vice President and Engineering Lead, Cloud Native Security Engineering
-### Citigroup - (Mar. 2020-Present)
+### Vice President and Engineering Lead, Cloud Security Engineering
+**Citigroup - (Mar. 2020-Present**
 - Leading a high-performing team of dedicated engineers to enable a secure and compliant by design public cloud deployment to facilitate rapid innovation and implementation for the business and development teams.
 - Cloud: Hands-on and lead engineer of AWS Guardrails and Security Engineering at Citi
 - Drive technology transformation across the enterprise to adopt public cloud services
