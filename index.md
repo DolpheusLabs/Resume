@@ -1,6 +1,6 @@
 ## Ryan Russell - ryan@dolpheus.com
 
-*The most up-to-date version of this as well as portfolio items can be found at https://www.dolpheus.com*
+*Get the latest updates + portfolio items at [dolpheus.com](https://www.dolpheus.com)*
 
 # Career Overview
 ### Vice President and Engineering Lead, Cloud Security Engineering
